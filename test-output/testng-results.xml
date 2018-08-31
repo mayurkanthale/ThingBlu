@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34663" started-at="2018-08-31T10:26:57Z" finished-at="2018-08-31T10:27:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34663" started-at="2018-08-31T10:26:57Z" finished-at="2018-08-31T10:27:32Z">
+      <class name="thingblu.TestsCasesManager.Mngr_VerifyAddNewStrain">
+        <test-method status="PASS" signature="initBrowser()[pri:0, instance:thingblu.TestsCasesManager.Mngr_VerifyAddNewStrain@6a4f787b]" name="initBrowser" is-config="true" duration-ms="6370" started-at="2018-08-31T10:26:57Z" finished-at="2018-08-31T10:27:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="addAddNewStrainAndValidateStatus()[pri:0, instance:thingblu.TestsCasesManager.Mngr_VerifyAddNewStrain@6a4f787b]" name="addAddNewStrainAndValidateStatus" duration-ms="28269" started-at="2018-08-31T10:27:04Z" finished-at="2018-08-31T10:27:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAddNewStrainAndValidateStatus -->
+      </class> <!-- thingblu.TestsCasesManager.Mngr_VerifyAddNewStrain -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
